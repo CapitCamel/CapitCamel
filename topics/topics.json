@@ -11,7 +11,7 @@
         "description": "Отчеты по семинарам",
         "preview": "img/Семинары.png"
     },
-    {
+    /*{
         "id": 1,
         "title": "UML Use Case",
         "description": "Диаграмма прецедента",
@@ -22,6 +22,12 @@
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
+    } */
+    {
+        "id": 3,
+        "title": "test",
+        "description": "test",
+        "preview": "img/ЛР.png"
     }
         
 ]
