@@ -125,11 +125,7 @@
                 {
                     "text": "PlantUML",
                     "link": "https://plantuml.com"
-                }
-                {
-                    "type": "image",
-                    "data": "img/ЛР2_UML.png"
-                },             
+                }            
             ]
         },   
         
