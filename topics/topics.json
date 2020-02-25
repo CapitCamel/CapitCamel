@@ -1,5 +1,17 @@
 [
     {
+        "id": "ЛабароторныеРаботы",
+        "title": "Лабароторные работы",
+        "description": "Отчеты по ЛР",
+        "preview": "img/ЛР.png"
+    },
+    {
+        "id": "Семинары",
+        "title": "Семинары",
+        "description": "Отчеты по семинарам",
+        "preview": "img/SEM.png"
+    },
+    {
         "id": 1,
         "title": "UML Use Case",
         "description": "Диаграмма прецедента",
