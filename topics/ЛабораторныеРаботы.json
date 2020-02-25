@@ -115,6 +115,23 @@
                 }
             ]
         },
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Диаграмма классов процесса редизайна",
+                    "class": "md-title"
+                },
+                {
+                    "text": "PlantUML",
+                    "link": "https://plantuml.com"
+                }
+                {
+                    "type": "image",
+                    "data": "img/ЛР2_UML.png"
+                },             
+            ]
+        },   
         
     ]
 }
