@@ -1,0 +1,13 @@
+{
+    "title": "Семинары",
+    "items": [
+        {
+            "type": "text",
+            "data": [
+                {
+                    "text": "Типа отчеты",
+                    "class": "md-title"
+                }
+            ]
+        }
+}
