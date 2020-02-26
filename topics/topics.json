@@ -1,24 +1,24 @@
 [
     {
-        "id": "LR",
+        "id": "3_LR",
         "title": "Лабораторные работы",
         "description": "Отчеты по ЛР",
         "preview": "img/ЛР.png"
     },
     {
-        "id": "Seminars",
+        "id": "4_Seminars",
         "title": "Семинары",
         "description": "Отчеты по семинарам",
         "preview": "img/Семинары.png"
     },
     {
-        "id": 1,
+        "id": "1_Case",
         "title": "UML Use Case",
         "description": "Диаграмма прецедента",
         "preview": "img/use-case-diagram.png"
     },
     {
-        "id": 2,
+        "id": "2_Class",
         "title": "UML Class",
         "description": "Диаграмма классов",
         "preview": "img/class-diagram.png"
