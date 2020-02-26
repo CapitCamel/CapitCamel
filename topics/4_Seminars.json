@@ -1,11 +1,11 @@
 {
-    "title": "Семинар 1",
+    "title": "Семинары",
      "items": [
         {
             "type": "text",
             "data": [
                 {
-                    "text": "ДЗ",
+                    "text": "Семинар 1",
                     "class": "md-title"
                 }
             ]
