@@ -4,6 +4,6 @@ angular.module('designApp', [
   'ngResource'
 ]).config(function ($mdThemingProvider) {
   $mdThemingProvider.theme('default')
-    .primaryPalette('brown')
+    .primaryPalette('black')
     .accentPalette('teal');
 });
