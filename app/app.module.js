@@ -5,5 +5,5 @@ angular.module('designApp', [
 ]).config(function ($mdThemingProvider) {
   $mdThemingProvider.theme('default')
     .primaryPalette('brown')
-    .accentPalette('brown');
+    .accentPalette('teal');
 });
