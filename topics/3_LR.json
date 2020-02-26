@@ -139,8 +139,13 @@
           "data": "img/ЛР2_UML.png"
         },
         {
-          "text": "PlantUML",
-          "link": "https://plantuml.com"
+         "type": "link",
+            "data": [
+                {
+                    "text": "PlantUML",
+                    "link": "https://plantuml.com"
+                }
+                    ]
         }
       ]
 }
