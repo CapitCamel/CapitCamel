@@ -116,6 +116,9 @@
           "type": "image",
           "data": "img/ЛР1_3.png"
         },
+         {
+              "text": "Диаграмма USE Case"
+         },
         {
             "type": "image",
             "data": "diagramUSECase.png"
