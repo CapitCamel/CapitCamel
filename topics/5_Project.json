@@ -30,14 +30,11 @@
         },
        {
             "type": "list",
-            "data": [{
-                      "type": "link",
-                      "data": [
-                       {
-                          "text": "РП (Владелец продукта) - Бойкова А.",
-                          "link": "https://github.com/BoykovaAS"
-                       }
-                               ]},
+            "data": [
+                [{
+                    "text": "РП (Владелец продукта) - Бойкова А.",
+                    "link": "https://github.com/BoykovaAS"
+                ]},
                 [{
                     "text": "АД (Мастер) - Толокольникова А."
                 }],
