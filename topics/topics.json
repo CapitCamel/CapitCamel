@@ -1,14 +1,20 @@
 [
     {
-        "id": 1,
-        "title": "UML Use Case",
-        "description": "Диаграмма прецедента",
-        "preview": "img/use-case-diagram.png"
+        "id": "lr",
+        "title": "лабораторные работы",
+        "description": "что-то решали",
+        "preview": "lr.png"
     },
     {
-        "id": 2,
-        "title": "UML Class",
-        "description": "Диаграмма классов",
-        "preview": "img/class-diagram.png"
+        "id": "s",
+        "title": "семинары",
+        "description": "что-то писали",
+        "preview": "s.png"
+    },
+    {
+        "id": "p",
+        "title": "проектик,
+        "description": "что-то делали",
+        "preview": "p.png"
     }
 ]
