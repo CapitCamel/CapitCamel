@@ -3,18 +3,18 @@
         "id": "lr",
         "title": "лабораторные работы",
         "description": "что-то решали",
-        "preview": "lr.png"
+        "preview": "img/lr.png"
     },
     {
         "id": "s",
         "title": "семинары",
         "description": "что-то писали",
-        "preview": "s.png"
+        "preview": "img/s.png"
     },
     {
         "id": "p",
         "title": "проектик",
         "description": "что-то делали",
-        "preview": "p.png"
+        "preview": "img/p.png"
     }
 ]
