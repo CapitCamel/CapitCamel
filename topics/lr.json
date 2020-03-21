@@ -23,7 +23,7 @@
             "type": "text",
             "data": [
                 {
-                    "text": "ВКР"
+                    "text": "Проект"
                 }
             ]
         },
@@ -121,7 +121,7 @@
          },
         {
             "type": "image",
-            "data": "diagramUSECase.png"
+            "data": "img/diagramUSECase.png"
         },
         {
             "type": "text",
