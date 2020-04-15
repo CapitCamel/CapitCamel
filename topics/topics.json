@@ -16,5 +16,11 @@
         "title": "проектик",
         "description": "что-то делали",
         "preview": "img/p.png"
+    },
+    {
+        "id": "5",
+        "title": "Отчет по командной работе",
+        "description": "Отчёт",
+        "preview": "img/f.png"
     }
 ]
